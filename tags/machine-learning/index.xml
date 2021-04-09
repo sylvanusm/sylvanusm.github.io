@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>machine learning on learn-AI</title>
-    <link>https://sylvanusm@github.io/tags/machine-learning/</link>
+    <link>https://sylvanusm.github.io/tags/machine-learning/</link>
     <description>Recent content in machine learning on learn-AI</description>
     <image>
-      <url>https://sylvanusm@github.io/papermod-cover.png</url>
-      <link>https://sylvanusm@github.io/papermod-cover.png</link>
+      <url>https://sylvanusm.github.io/papermod-cover.png</url>
+      <link>https://sylvanusm.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://sylvanusm@github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://sylvanusm.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is AI ?</title>
-      <link>https://sylvanusm@github.io/posts/markdown-syntax.fr/</link>
+      <link>https://sylvanusm.github.io/posts/markdown-syntax.fr/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sylvanusm@github.io/posts/markdown-syntax.fr/</guid>
+      <guid>https://sylvanusm.github.io/posts/markdown-syntax.fr/</guid>
       <description>Learn more about AI history evolution and current state</description>
     </item>
     
