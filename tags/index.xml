@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on learn-AI</title>
+    <link>https://sylvanusm@github.io/tags/</link>
+    <description>Recent content in Tags on learn-AI</description>
+    <image>
+      <url>https://sylvanusm@github.io/papermod-cover.png</url>
+      <link>https://sylvanusm@github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://sylvanusm@github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://sylvanusm@github.io/tags/ai/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sylvanusm@github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://sylvanusm@github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sylvanusm@github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>system expert</title>
+      <link>https://sylvanusm@github.io/tags/system-expert/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sylvanusm@github.io/tags/system-expert/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
