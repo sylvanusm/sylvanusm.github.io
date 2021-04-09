@@ -9,7 +9,7 @@
       <link>https://sylvanusm@github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://sylvanusm@github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Apr 2021 12:05:24 +0200</lastBuildDate><atom:link href="https://sylvanusm@github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is AI ?</title>
       <link>https://sylvanusm@github.io/posts/markdown-syntax.fr/</link>
@@ -17,6 +17,15 @@
       
       <guid>https://sylvanusm@github.io/posts/markdown-syntax.fr/</guid>
       <description>Learn more about AI history evolution and current state</description>
+    </item>
+    
+    <item>
+      <title>Tuto Test</title>
+      <link>https://sylvanusm@github.io/tutorials/tuto-test/</link>
+      <pubDate>Fri, 09 Apr 2021 12:05:24 +0200</pubDate>
+      
+      <guid>https://sylvanusm@github.io/tutorials/tuto-test/</guid>
+      <description>In progress </description>
     </item>
     
     
