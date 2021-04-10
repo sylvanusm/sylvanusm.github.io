@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on learn-AI</title>
-    <link>https://sylvanusm.github.io/categories/</link>
+    <link>https://learn-ai.io/categories/</link>
     <description>Recent content in Categories on learn-AI</description>
     <image>
-      <url>https://sylvanusm.github.io/papermod-cover.png</url>
-      <link>https://sylvanusm.github.io/papermod-cover.png</link>
+      <url>https://learn-ai.io/papermod-cover.png</url>
+      <link>https://learn-ai.io/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://sylvanusm.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://learn-ai.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
