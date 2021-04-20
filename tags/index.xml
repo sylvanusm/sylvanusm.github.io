@@ -8,34 +8,6 @@
       <url>https://learn-ai.io/papermod-cover.png</url>
       <link>https://learn-ai.io/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://learn-ai.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI</title>
-      <link>https://learn-ai.io/tags/ai/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://learn-ai.io/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine learning</title>
-      <link>https://learn-ai.io/tags/machine-learning/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://learn-ai.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>system expert</title>
-      <link>https://learn-ai.io/tags/system-expert/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://learn-ai.io/tags/system-expert/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://learn-ai.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -11,15 +11,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 09 Apr 2021 12:05:24 +0200</lastBuildDate><atom:link href="https://learn-ai.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>What is AI ?</title>
-      <link>https://learn-ai.io/posts/markdown-syntax.fr/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://learn-ai.io/posts/markdown-syntax.fr/</guid>
-      <description>Learn more about AI history evolution and current state</description>
-    </item>
-    
-    <item>
       <title>Tuto Test</title>
       <link>https://learn-ai.io/tutorials/tuto-test/</link>
       <pubDate>Fri, 09 Apr 2021 12:05:24 +0200</pubDate>
